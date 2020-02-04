@@ -1,8 +1,8 @@
 {
-  "name": "mable-therapy-tech-test",
+  "name": "githubviewer",
   "version": "1.0.0",
   "description": "",
-  "main": ".prettierrc.js",
+  "main": "index.js",
   "dependencies": {
     "@types/styled-components": "^4.4.2",
     "debounce": "^1.2.0",

@@ -5,7 +5,7 @@ import {
 
 const TopBar: FunctionComponent = () => (
     <Container>
-            <h1>Mable Tech Test</h1>
+            <h1>Github Viewer</h1>
     </Container>
 )
 
