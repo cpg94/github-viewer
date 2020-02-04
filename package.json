@@ -1,0 +1,30 @@
+{
+  "name": "mable-therapy-tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc.js",
+  "dependencies": {
+    "@types/styled-components": "^4.4.2",
+    "debounce": "^1.2.0",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-svg": "^11.0.8",
+    "styled-components": "^5.0.0",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "ts-jest": "^25.0.0",
+    "@testing-library/jest-dom": "^5.0.2",
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
