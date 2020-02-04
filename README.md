@@ -1,5 +1,3 @@
-Mable Tech Test
-
 `npm run dev` - run dev build
 
 
